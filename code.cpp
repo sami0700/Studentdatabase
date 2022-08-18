@@ -1,8 +1,6 @@
 #include<iostream>
 #include<malloc.h>
 #include<conio.h>
-#include<windows.h> //for playsound()
-#include<MMsystem.h>// for playsound()
 #include<string.h>
 using namespace std;
 struct student
